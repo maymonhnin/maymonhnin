@@ -1,7 +1,7 @@
 <h1>Hi there 👋, May Mon Hnin</h1> 
 <h3>Design and Development</h3>
 
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://media.licdn.com/dms/image/D5603AQGWVOYU7kINiQ/profile-displayphoto-shrink_200_200/0/1689886884992?e=1703116800&v=beta&t=UIfVWCuIGUURo68u61NlSIf4yeX7_Mh0VXUh-rYgIDg)
 
 I’m May Mon Hnin. I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui, ux and design in general. <br/>
 Moreover I'm a person who love to help people by Technology. <br/>
