@@ -14,7 +14,8 @@ Now I'm currently working as a Senior Project Coordinator in the process of tran
 - 📫 How to reach me: maymonhnin1000@gmail.com 
 - ⚡ Fun fact: You can call me R M (becoz I like Roll Royce and Martin from my mother's name) :3 
 
-Web Development Skills: REACT / VUE JS / JS / NODE JS / MYSQL / Tailwind / Bootstrap / MUI / HTML / CSS
+<b>Web Development Skills:</b> 
+<br/>REACT / VUE JS / JS / NODE JS / MYSQL / Tailwind / Bootstrap / MUI / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
