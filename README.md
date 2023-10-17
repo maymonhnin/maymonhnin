@@ -18,3 +18,7 @@ Skills: REACT / VUE JS / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/maymonhnin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/may-mon-hnin-533062201/)  
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maymonhnin&show_icons=true&locale=en" alt="maymonhnin" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maymonhnin" alt="maymonhnin" /></a> </p>
+
