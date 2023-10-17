@@ -7,8 +7,6 @@ I’m May Mon Hnin. I do content on Design and Development. I really enjoy learn
 Moreover I'm a person who love to help people by Technology. <br/>
 Now I'm currently working as a Senior Project Coordinator in the process of transforming paper work to digital platform in MaharNET ISP, Myanmar. 
 
-Skills: REACT / VUE JS / JS / NODE JS / MYSQL / Tailwind / Bootstrap / MUI / HTML / CSS
-
 - 🔭 I’m currently working on websites and web development as a freenlancer. 
 - 🌱 I’m currently learning some web development latest technologies and project management. 
 - 👯 I’m looking to collaborate on Front-End & Web Development Projects. 
@@ -16,6 +14,7 @@ Skills: REACT / VUE JS / JS / NODE JS / MYSQL / Tailwind / Bootstrap / MUI / HTM
 - 📫 How to reach me: maymonhnin1000@gmail.com 
 - ⚡ Fun fact: You can call me R M (becoz I like Roll Royce and Martin from my mother's name) :3 
 
+Web Development Skills: REACT / VUE JS / JS / NODE JS / MYSQL / Tailwind / Bootstrap / MUI / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
