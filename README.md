@@ -1,6 +1,7 @@
 <h1>Hi there 👋, May Mon Hnin</h1> 
 <h3>Design and Development</h3>
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+##![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I’m May Mon Hnin. I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui, ux and design in general. <br/>
 Moreover I'm a person who love to help people by Technology. <br/>
@@ -16,7 +17,7 @@ Skills: REACT / VUE JS / JS / HTML / CSS
 - ⚡ Fun fact: You can call me R M (becoz I like Roll Royce and Martin from my mother's name) :3 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/maymonhnin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/may-mon-hnin-533062201/)  
+[<img src='https://icons8.com/icon/12598/github' alt='github' height='40'>](https://github.com/https://github.com/maymonhnin)  [<img src='https://icons8.com/icon/xuvGCOXi8Wyg/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/may-mon-hnin-533062201/)  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maymonhnin&show_icons=true&locale=en" alt="maymonhnin" /></p>
 
