@@ -7,7 +7,7 @@ I’m May Mon Hnin. I do content on Design and Development. I really enjoy learn
 Moreover I'm a person who love to help people by Technology. <br/>
 Now I'm currently working as a Senior Project Coordinator in the process of transforming paper work to digital platform in MaharNET ISP, Myanmar. 
 
-Skills: REACT / VUE JS / JS / HTML / CSS
+Skills: REACT / VUE JS / JS / NODE JS / MYSQL / Tailwind / Bootstrap / MUI / HTML / CSS
 
 - 🔭 I’m currently working on websites and web development as a freenlancer. 
 - 🌱 I’m currently learning some web development latest technologies and project management. 
