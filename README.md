@@ -1,9 +1,9 @@
-### Hi there 👋, May Mon Hnin
-#### Design and Development
+<h1>Hi there 👋, May Mon Hnin</h1> 
+<h3>Design and Development</h3>
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I’m May Mon Hnin. I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui, ux and design in general. 
-Moreover I'm a person who love to help people by Technology. 
+I’m May Mon Hnin. I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui, ux and design in general. <br/>
+Moreover I'm a person who love to help people by Technology. <br/>
 Now I'm currently working as a Senior Project Coordinator in the process of transforming paper work to digital platform in MaharNET ISP, Myanmar. 
 
 Skills: REACT / VUE JS / JS / HTML / CSS
